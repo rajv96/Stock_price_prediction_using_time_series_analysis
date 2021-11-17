@@ -1,4 +1,4 @@
-# Stock_price_prediction_using_time_series_analysis
+# Stock_price_prediction_using_time_series_forecasting
 
 One of the applications of Time Series Analysis/Forecasting is to forecast the opening stock prices, closing stock prices, volume of stocks to be traded etc. In this data driven world, many firms are trying to forecast the future behaviour of the stock market. For this particular case study, we have the **stock price data of Apple** from the NASDAQ stock exchange for some time periods of 2018 through to 2019. 
 
