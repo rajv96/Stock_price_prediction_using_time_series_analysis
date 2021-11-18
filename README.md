@@ -8,3 +8,13 @@ The following things are covered in this project:
 1. Exploratory Data Analysis
 2. ARIMA models (with and without exogenous variables)
 3. Facebook’s Prophet Library
+
+The following graph summarizes forecasts for the different time series models built.
+
+![](images/Capture1.png)
+
+The below table summarizes the RMSE values for the models.
+
+![](images/Capture2.png)
+
+As we can observe, the FB prophet model with exogeneous variables has the least rmse value (7.986691e+06) and has a better fit compared to other models.
