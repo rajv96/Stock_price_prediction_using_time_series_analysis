@@ -11,10 +11,10 @@ The following things are covered in this project:
 
 The following graph summarizes forecasts for the different time series models built.
 
-![](images/Capture1.png)
+![](images/Capture1.PNG)
 
 The below table summarizes the RMSE values for the models.
 
-![](images/Capture2.png)
+![](images/Capture_3.PNG)
 
 As we can observe, the FB prophet model with exogeneous variables has the least rmse value (7.986691e+06) and has a better fit compared to other models.
